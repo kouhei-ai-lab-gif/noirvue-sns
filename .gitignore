@@ -2,3 +2,5 @@
 !.gitignore
 !img/
 !img/*.jpg
+!video/
+!video/*.mp4
